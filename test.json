@@ -65,6 +65,72 @@
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.Groupifier", 
             "sha512": "00000"
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "APCSP_Image.png", 
+            "thumbnailURL": "APCSP_Image.png", 
+            "subtitle": "Use Swift to Write Algorithms", 
+            "description": "Really, Really hoping this works.", 
+            "publishedDate": "2017-12-15T12:00:00+00:00", 
+            "url": "/folder/APinCSP.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Bob Brown"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2017-12-15T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English"
+                }
+            ], 
+            "title": "APinCSP", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
+            "contentIdentifier": "org.d214.APCSP", 
+            "sha512": "00000"
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "banner.png", 
+            "thumbnailURL": "banner.png", 
+            "subtitle": "Use Coding in Every Classroom", 
+            "description": "This playgroud is used to code in every classroom", 
+            "publishedDate": "2017-12-15T12:00:00+00:00", 
+            "url": "/folder/CodingAcrossTheCurriculum.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Bob Brown"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2017-12-15T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English"
+                }
+            ], 
+            "title": "CodingAcrossTheCurriculum", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
+            "contentIdentifier": "org.jhhs.HerseyCAC", 
+            "sha512": "00000"
         }
     ], 
     "publisherName": "Bob Brown", 
