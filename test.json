@@ -7,7 +7,7 @@
             "subtitle": "Use Swift to Write Algorithms", 
             "description": "Really, Really hoping this works.", 
             "publishedDate": "2017-12-15T12:00:00+00:00", 
-            "url": "/folder/SpheroArcade.playgroundbook.zip", 
+            "url": "/folder/APinCSP.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -30,7 +30,7 @@
             "title": "APinCSP", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
-            "contentIdentifier": "org.jhhs.APinCSP", 
+            "contentIdentifier": "org.d214.APCSP", 
             "sha512": "00000"
         },
         {
@@ -63,7 +63,7 @@
             "title": "Group-i-fier", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
-            "contentIdentifier": "org.jhhs.Group-i-fier", 
+            "contentIdentifier": "org.jhhs.Groupifier", 
             "sha512": "00000"
         }
     ], 
