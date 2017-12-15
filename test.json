@@ -27,14 +27,6 @@ name: "Languages:",
 value: "English"
 }
 ],
-title: "Sphero Arcade",
-contentVersion: "1.0",
-lastUpdatedDate: "2017-05-29T12:00:00+00:00",
-contentIdentifier: "com.sphero.spheroArcade",
-sha512: "83046bcffd1751a5edf404573aab26d619ece8931591f02ce44805bfb5aee7852517ddbd2e89cf1832f05ecc1d70fc7de5281a5f5c613d9ec059db6c1b0e6b25"
-}
-
-],
 publisherName: "Bob Brown",
 title: "APinCSP",
 formatVersion: "1.0",
