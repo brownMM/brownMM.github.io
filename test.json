@@ -64,7 +64,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.Groupifier", 
-            "sha512": "00000"
+            "sha512": "00001"
         },
         {
             "previewImageURLs": [], 
@@ -97,7 +97,7 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.HerseyCAC", 
-            "sha512": "00000"
+            "sha512": "00002"
         }
     ], 
     "publisherName": "Bob Brown", 
