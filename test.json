@@ -2,8 +2,8 @@
 documents: [
 {
 previewImageURLs: [ ],
-bannerImageURL: "DetailsBanner_2x.png",
-thumbnailURL: "StoreBanner_2x.png",
+bannerImageURL: "APinCSP_Image.png",
+thumbnailURL: "APinCSPImage.png",
 subtitle: "Just Trying to See if this Works",
 description: "If this works, I will be happy",
 publishedDate: "2017-05-29T12:00:00+00:00",
