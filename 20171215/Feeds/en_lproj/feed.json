@@ -30,8 +30,7 @@
             "title": "APinCSP", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
-            "contentIdentifier": "org.d214.APCSP", 
-            "sha512": "00000"
+            "contentIdentifier": "org.d214.APCSP"
         },
         {
             "previewImageURLs": [], 
@@ -63,8 +62,7 @@
             "title": "Group-i-fier", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
-            "contentIdentifier": "org.jhhs.Groupifier", 
-            "sha512": "00001"
+            "contentIdentifier": "org.jhhs.Groupifier"
         },
         {
             "previewImageURLs": [], 
@@ -96,8 +94,7 @@
             "title": "CodingAcrossTheCurriculum", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15T12:00:00+00:00", 
-            "contentIdentifier": "org.jhhs.HerseyCAC", 
-            "sha512": "00002"
+            "contentIdentifier": "org.jhhs.HerseyCAC"
         }
     ], 
     "publisherName": "Bob Brown", 
