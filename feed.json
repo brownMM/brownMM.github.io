@@ -7,7 +7,7 @@
             "subtitle": "Code classic games with Sphero.", 
             "description": "Recreate a classic game with a Sphero SPRK+ robot and learn the tactics of game design. Get started with Sphero basics like aiming, rolling, and adjusting lights, then move on to detecting collisions with the accelerometer and calculating bounce angles. You\u2019ll also utilize variables and functions, so it\u2019s helpful to complete the \"Learn to Code 1\" and \"Learn to Code 2\" playgrounds beforehand. Once you master the basics, you\u2019ll begin building your very own robotic rendition of \"Pong\", the very first popular video game. However, in this interactive version of the game, the robot will be the ball and your feet will be the paddles. The game is best played with two players, so grab a friend to help you code and play!\n\nThis playground requires a Sphero SPRK+ robot.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
-            "url": "../../Content/SpheroArcade/SpheroArcade.playgroundbook.zip", 
+            "url": "PlaygroundBooks/APCSP.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
@@ -32,72 +32,6 @@
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
             "contentIdentifier": "com.sphero.spheroArcade", 
             "sha512": "83046bcffd1751a5edf404573aab26d619ece8931591f02ce44805bfb5aee7852517ddbd2e89cf1832f05ecc1d70fc7de5281a5f5c613d9ec059db6c1b0e6b25"
-        }, 
-        {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/R2-D2bySphero/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/R2-D2bySphero/en_lproj/StoreBanner_2x.png", 
-            "subtitle": "Use Swift code to help R2-D2.", 
-            "description": "Relive the events of Star Wars: A New Hope\u2122 with your app-enabled R2-D2 Droid! Using Swift programming, you\u2019ll be able to help R2-D2 find Obi-Wan Kenobi in the deserts of Tatooine. You will also be able to explore the Death Star, evading Stormtroopers at every turn. Use new Swift commands unique to R2-D2, including controlling its lights, dome movements and playing authentic R2-D2 sounds. You will also code how to control the Droid\u2019s movement within the Death Star, as well as unlock it\u2019s life form scanner and door decoder.", 
-            "publishedDate": "2017-09-01T12:00:00+00:00", 
-            "url": "../../Content/R2-D2bySphero/R2-D2bySphero.playgroundbook.zip", 
-            "additionalInformation": [
-                {
-                    "name": "Publisher:", 
-                    "value": "Sphero Inc."
-                }, 
-                {
-                    "name": "Version:", 
-                    "value": "1.0"
-                }, 
-                {
-                    "type": "date", 
-                    "name": "Released:", 
-                    "value": "2017-09-01T12:00:00+00:00"
-                }, 
-                {
-                    "name": "Languages:", 
-                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
-                }
-            ], 
-            "title": "R2-D2 by Sphero", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-09-01T12:00:00+00:00", 
-            "contentIdentifier": "com.sphero.artooplayground", 
-            "sha512": "8083bada0caa139a0f9498382b61815b7e685f351000807265f1c66c61040879a619debd3ab313c43381053eeea9432a4d32783821a9d686312218c730d360f6"
-        }, 
-        {
-            "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/SpheroTemplate/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/SpheroTemplate/en_lproj/StoreBanner_2x.png", 
-            "subtitle": "Build your own programs with a Sphero robot.", 
-            "description": "An open template that allows you to build your own programs with a Sphero robot. Review the Sphero API documentation for a list of commands to control your robot.\n\nThis playground requires a Sphero SPRK+, BB-8, R2-D2, or BB-9E robot.", 
-            "publishedDate": "2017-09-01T12:00:00+00:00", 
-            "url": "../../Content/SpheroTemplate/SpheroTemplate.playgroundbook.zip", 
-            "additionalInformation": [
-                {
-                    "name": "Publisher:", 
-                    "value": "Sphero Inc."
-                }, 
-                {
-                    "name": "Version:", 
-                    "value": "1.0"
-                }, 
-                {
-                    "type": "date", 
-                    "name": "Released:", 
-                    "value": "2017-09-01T12:00:00+00:00"
-                }, 
-                {
-                    "name": "Languages:", 
-                    "value": "English, German, French, Japanese, Simplified Chinese, and Latin American Spanish."
-                }
-            ], 
-            "title": "Sphero Template", 
-            "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-09-01T12:00:00+00:00", 
-            "contentIdentifier": "com.sphero.spheroTemplate", 
-            "sha512": "8b1387d5dbc3192b5940964365fb3d7cc7027aa07f1e4b518574de37c6bd84dccd0967867a5549b0489a960fe1dce55750e5901a433440028541e55fe8daeea3"
         }
     ], 
     "publisherName": "Bob Brown", 
