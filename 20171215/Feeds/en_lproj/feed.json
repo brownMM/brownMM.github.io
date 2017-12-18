@@ -32,39 +32,6 @@
             "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
             "contentIdentifier": "org.d214.APCSP",
             "sha512": "00000"
-        },
-        {
-            "previewImageURLs": [],
-            "bannerImageURL": "GroupifierBanner_2x.png",
-            "thumbnailURL": "GroupIcon.png",
-            "subtitle": "Make groups for the classroom",
-            "description": "Make groups easier",
-            "publishedDate": "2017-05-29T12:00:00+00:00",
-            "url": "../../Group-i-fier.playgroundbook.zip",
-            "additionalInformation": [
-                {
-                    "name": "Publisher:",
-                    "value": "Bob Brown"
-                },
-                {
-                    "name": "Version:",
-                    "value": "1.0"
-                },
-                {
-                    "type": "date",
-                    "name": "Released:",
-                    "value": "2017-05-29T12:00:00+00:00"
-                },
-                {
-                    "name": "Languages:",
-                    "value": "English"
-                }
-            ],
-            "title": "Group-i-fier",
-            "contentVersion": "1.0",
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
-            "contentIdentifier": "org.jhhs.Groupifier",
-            "sha512": "00001"
         }
     ],
     "publisherName": "Bob Brown",
