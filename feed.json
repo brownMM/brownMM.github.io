@@ -1,11 +1,5 @@
 {
-    "documents": [
-        {
-            "previewImageURLs": [], 
-            "bannerImageURL": "APinCSPBanner_2x.png", 
-            "thumbnailURL": "APCSP_Image.png"
-        }
-    ], 
+    "documents": [ ], 
     "publisherName": "Bob Brown", 
     "title": "JHHS Playgrounds", 
     "formatVersion": "1.0", 
