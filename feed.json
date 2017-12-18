@@ -2,8 +2,8 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "../../Content/SpheroArcade/en_lproj/DetailsBanner_2x.png", 
-            "thumbnailURL": "../../Content/SpheroArcade/en_lproj/StoreBanner_2x.png", 
+            "bannerImageURL": "APinCSPBanner_2x.png", 
+            "thumbnailURL": "APCSP_Image.png", 
             "subtitle": "Code classic games with Sphero.", 
             "description": "Recreate a classic game with a Sphero SPRK+ robot and learn the tactics of game design. Get started with Sphero basics like aiming, rolling, and adjusting lights, then move on to detecting collisions with the accelerometer and calculating bounce angles. You\u2019ll also utilize variables and functions, so it\u2019s helpful to complete the \"Learn to Code 1\" and \"Learn to Code 2\" playgrounds beforehand. Once you master the basics, you\u2019ll begin building your very own robotic rendition of \"Pong\", the very first popular video game. However, in this interactive version of the game, the robot will be the ball and your feet will be the paddles. The game is best played with two players, so grab a friend to help you code and play!\n\nThis playground requires a Sphero SPRK+ robot.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
