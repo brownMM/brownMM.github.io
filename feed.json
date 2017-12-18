@@ -1,5 +1,37 @@
 {
-    "documents": [ ], 
+    "documents": [ {
+      "previewImageURLs": [ ], 
+      "bannerImageURL": "APinCSPBanner_2x.png", 
+      "thumbnailURL": "APCSP_Image.png", 
+      "subtitle": "Code classic games with Sphero.", 
+      "description": "Stuff",
+      "publishedDate": "2017-05-29T12:00:00+00:00", 
+      "url": "PlaygroundBooks/APinCSP.playgroundbook.zip", 
+      "additionalInformation": [
+        {
+          "name": "Publisher:", 
+          "value": "Bob Brown"
+        }, 
+        {
+          "name": "Version:", 
+          "value": "1.0"
+        }, 
+        {
+          "type": "date", 
+          "name": "Released:", 
+          "value": "2017-12-15T12:00:00+00:00"
+        }, 
+        {
+          "name": "Languages:", 
+          "value": "English"
+        }
+      ],
+      "title": "APinCSP", 
+      "contentVersion": "1.0", 
+      "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+      "contentIdentifier": "com.d214.APCSP",
+      "sha512": "00000"
+    }], 
     "publisherName": "Bob Brown", 
     "title": "JHHS Playgrounds", 
     "formatVersion": "1.0", 
