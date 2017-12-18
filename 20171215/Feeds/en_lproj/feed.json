@@ -1,8 +1,75 @@
 {
-    "documents": [], 
-    "publisherName": "Bob Brown", 
-    "title": "JHHS Playgrounds", 
-    "formatVersion": "1.0", 
-    "feedIdentifier": "org.jhhs", 
+    "documents": [
+        {
+            "previewImageURLs": [],
+            "bannerImageURL": "APCSP_Image.png",
+            "thumbnailURL": "APCSP_Image.png",
+            "subtitle": "Stuff",
+            "description": "Things",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "APinCSP.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "Bob Brown"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2017-05-29T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English"
+                }
+            ],
+            "title": "APinCSP",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "contentIdentifier": "org.jhhs.APCSP",
+            "sha512": "00000"
+        },
+        {
+            "previewImageURLs": [],
+            "bannerImageURL": "GroupIcon.png",
+            "thumbnailURL": "GroupIcon.png",
+            "subtitle": "Stuff",
+            "description": "Things",
+            "publishedDate": "2017-05-29T12:00:00+00:00",
+            "url": "Group-i-fier.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Publisher:",
+                    "value": "Bob Brown"
+                },
+                {
+                    "name": "Version:",
+                    "value": "1.0"
+                },
+                {
+                    "type": "date",
+                    "name": "Released:",
+                    "value": "2017-05-29T12:00:00+00:00"
+                },
+                {
+                    "name": "Languages:",
+                    "value": "English"
+                }
+            ],
+            "title": "Group-i-fier",
+            "contentVersion": "1.0",
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00",
+            "contentIdentifier": "org.jhhs.Groupifier",
+            "sha512": "00001"
+        }
+    ],
+    "publisherName": "Bob Brown",
+    "title": "JHHS Playgrounds",
+    "formatVersion": "1.0",
+    "feedIdentifier": "org.jhhs",
     "contactURL": "mailto:bob.brown@d214.org"
 }
