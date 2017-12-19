@@ -70,6 +70,6 @@
     "publisherName": "Bob Brown", 
     "title": "JHHS Playgrounds", 
     "formatVersion": "1.0", 
-    "feedIdentifier": "org.jhhs", 
+    "feedIdentifier": "com.ubtech", 
     "contactURL": "mailto:bob.brown@d214.org"
 }
