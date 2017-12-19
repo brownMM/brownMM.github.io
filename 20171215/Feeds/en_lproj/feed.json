@@ -4,14 +4,14 @@
             "previewImageURLs": [], 
             "bannerImageURL": "APinCSPBanner.png", 
             "thumbnailURL": "APinCSPImage.png", 
-            "subtitle": "Code your own dance moves for MeeBot, your personal Jimu Robot", 
-            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "subtitle": "Code algorithms with Swift", 
+            "description": "Use Swift to code different algorithms from String Processing, Integer Processing and Array Processing", 
+            "publishedDate": "2017-12-18", 
             "url": "../../APinCSP.playgroundbook.zip", 
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
-                    "value": "UBTECH Robotics Corp."
+                    "value": "Bob Brown"
                 }, 
                 {
                     "name": "Version:", 
@@ -20,18 +20,18 @@
                 {
                     "type": "date", 
                     "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2017-12-18"
                 }, 
                 {
                     "name": "Languages:", 
-                    "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
+                    "value": "English"
                 }
             ], 
-            "title": "MeeBot Dances", 
+            "title": "APinCSP", 
             "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
-            "contentIdentifier": "com.ubtech.meebotlearnstodance", 
-            "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
+            "lastUpdatedDate": "2017-12-18", 
+            "contentIdentifier": "org.jhhs.APCSP", 
+            "sha512": "00000"
         }, 
         {
             "previewImageURLs": [], 
