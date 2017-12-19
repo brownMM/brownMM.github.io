@@ -5,7 +5,7 @@
             "bannerImageURL": "APinCSPBanner.png", 
             "thumbnailURL": "APinCSPImage.png", 
             "subtitle": "Code algorithms in Swift", 
-            "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.", 
+            "description": "APinCSP was created as algorithm practice in AP Computer Science Principles. The students will learn how quickly Swift can do Array, String and Integer processing, but must use loops to re-create the coding of these algorithms.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
             "url": "../../APinCSP.playgroundbook.zip", 
             "additionalInformation": [
@@ -38,7 +38,7 @@
             "bannerImageURL": "GroupifierBanner.png", 
             "thumbnailURL": "GroupifierImage.png", 
             "subtitle": "Use Group-i-fier to create groups", 
-            "description": "Create MeeBot\u2019s dance moves however you want using this template. Get creative!", 
+            "description": "Group-i-fier was created to introduce teachers to Swift Playgrounds. A teacher can use the program to create groups in their classroom and learn how to use Swift Playgrounds in a non-intrusive way.", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
             "url": "../../Group-i-fier.playgroundbook.zip", 
             "additionalInformation": [
@@ -67,9 +67,9 @@
             "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
         }
     ], 
-    "publisherName": "UBTECH Robotics Corp.", 
+    "publisherName": "Bob Brown", 
     "title": "JHHS Playgrounds", 
     "formatVersion": "1.0", 
-    "feedIdentifier": "com.ubtech", 
-    "contactURL": "mailto:max.mai@ubtrobot.com"
+    "feedIdentifier": "org.jhhs", 
+    "contactURL": "mailto:bob.brown@d214.org"
 }
