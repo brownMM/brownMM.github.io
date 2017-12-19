@@ -2,7 +2,7 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "APinCSPBanner.png", 
+            "bannerImageURL": "APinCSPImage.png", 
             "thumbnailURL": "APinCSPImage.png", 
             "subtitle": "Stuff", 
             "description": "Things", 
@@ -30,12 +30,12 @@
             "title": "APinCSP", 
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-15", 
-            "contentIdentifier": "org.d214.APCSP", 
+            "contentIdentifier": "org.jhhs.APCSP", 
             "sha512": "00000"
         }, 
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "GroupifierBanner.png", 
+            "bannerImageURL": "GroupifierImage.png", 
             "thumbnailURL": "GroupifierImage.png", 
             "subtitle": "One", 
             "description": "Two", 
