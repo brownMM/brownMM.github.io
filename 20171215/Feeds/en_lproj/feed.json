@@ -11,7 +11,7 @@
             "additionalInformation": [
                 {
                     "name": "Publisher:", 
-                    "value": "Bob Brown"
+                    "value": "UBTECH Robotics Corp."
                 }, 
                 {
                     "name": "Version:", 
@@ -20,18 +20,18 @@
                 {
                     "type": "date", 
                     "name": "Released:", 
-                    "value": "2017-12-18"
+                    "value": "2017-05-29T12:00:00+00:00"
                 }, 
                 {
                     "name": "Languages:", 
-                    "value": "English"
+                    "value": "English, German, French, Simplified Chinese, Japanese, and Latin American Spanish."
                 }
             ], 
-            "title": "APinCSP", 
+            "title": "MeeBot Dances", 
             "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-12-18", 
-            "contentIdentifier": "org.jhhs.APCSP", 
-            "sha512": "00000"
+            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "contentIdentifier": "com.ubtech.meebotlearnstodance", 
+            "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
         }, 
         {
             "previewImageURLs": [], 
