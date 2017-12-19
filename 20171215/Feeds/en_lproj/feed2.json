@@ -2,8 +2,8 @@
     "documents": [
         {
             "previewImageURLs": [ ],
-            "bannerImageURL": "APinCSPBanner_2x.png",
-            "thumbnailURL": "APCSP_Image.png",
+            "bannerImageURL": "APinCSPBanner.png",
+            "thumbnailURL": "APinCSPImage.png",
             "subtitle": "Learn to code algorithms in Swift",
             "description": "Using Swift, learn how to code algorithms",
             "publishedDate": "2017-05-29T12:00:00+00:00",
