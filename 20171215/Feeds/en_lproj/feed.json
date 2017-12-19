@@ -6,7 +6,7 @@
             "thumbnailURL": "APinCSPImage.png", 
             "subtitle": "Code algorithms in Swift", 
             "description": "APinCSP was created as algorithm practice in AP Computer Science Principles. The students will learn how quickly Swift can do Array, String and Integer processing, but must use loops to re-create the coding of these algorithms.", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "publishedDate": "2017-12-19T12:00:00+00:00", 
             "url": "../../APinCSP.playgroundbook.zip", 
             "additionalInformation": [
                 {
@@ -20,7 +20,7 @@
                 {
                     "type": "date", 
                     "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2017-12-19T12:00:00+00:00"
                 }, 
                 {
                     "name": "Languages:", 
@@ -29,7 +29,7 @@
             ], 
             "title": "APinCSP", 
             "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
             "contentIdentifier": "com.ubtech.meebotlearnstodance", 
             "sha512": "8e15d04106dde1b59c03dbb53238e829ae4de5812b65ec04c9995ceb7c262f175396cc34c11c67237a03a000abfe00f8df8da89a979e0d397e54bcd3ec13ad7c"
         }, 
@@ -39,7 +39,7 @@
             "thumbnailURL": "GroupifierImage.png", 
             "subtitle": "Use Group-i-fier to create groups", 
             "description": "Group-i-fier was created to introduce teachers to Swift Playgrounds. A teacher can use the program to create groups in their classroom and learn how to use Swift Playgrounds in a non-intrusive way.", 
-            "publishedDate": "2017-05-29T12:00:00+00:00", 
+            "publishedDate": "2017-12-19T12:00:00+00:00", 
             "url": "../../Group-i-fier.playgroundbook.zip", 
             "additionalInformation": [
                 {
@@ -53,7 +53,7 @@
                 {
                     "type": "date", 
                     "name": "Released:", 
-                    "value": "2017-05-29T12:00:00+00:00"
+                    "value": "2017-12-19T12:00:00+00:00"
                 }, 
                 {
                     "name": "Languages:", 
@@ -62,7 +62,7 @@
             ], 
             "title": "Group-i-fier", 
             "contentVersion": "1.0", 
-            "lastUpdatedDate": "2017-05-29T12:00:00+00:00", 
+            "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
             "contentIdentifier": "com.ubtech.meebotlearnstodance.template", 
             "sha512": "6cb9a9aab4e8d1ba7bd464bd282fab08fd76f5114f4d1a522d83a152266f74c4e7fba7acf3d339d73842f4188fabddabbb34c7a37e3294953f8ed5e6813e6ad9"
         }
