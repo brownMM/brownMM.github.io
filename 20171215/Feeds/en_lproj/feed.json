@@ -2,7 +2,7 @@
     "documents": [
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "APinCSPImage.png", 
+            "bannerImageURL": "APinCSPBanner.png", 
             "thumbnailURL": "APinCSPImage.png", 
             "subtitle": "Code your own dance moves for MeeBot, your personal Jimu Robot", 
             "description": "Use Swift to compose a choreographed dance for MeeBot. This lesson will also show you how to create your own custom dance moves through code to take Meebot\u2019s dance to the next level. Utilize what you previously learned in \u201cLearn to Code 1\u201d to time your dance moves with the tempo of the music for Meebot\u2019s final performance.", 
@@ -35,8 +35,8 @@
         }, 
         {
             "previewImageURLs": [], 
-            "bannerImageURL": "APinCSPImage.png", 
-            "thumbnailURL": "APinCSPImage.png", 
+            "bannerImageURL": "GroupifierBanner.png", 
+            "thumbnailURL": "GroupifierImage.png", 
             "subtitle": "Code your own dance moves for MeeBot, your personal Jimu Robot", 
             "description": "Create MeeBot\u2019s dance moves however you want using this template. Get creative!", 
             "publishedDate": "2017-05-29T12:00:00+00:00", 
