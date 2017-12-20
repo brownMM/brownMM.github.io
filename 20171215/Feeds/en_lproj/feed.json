@@ -63,6 +63,38 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.Groupifier"
+        },
+        {
+            "previewImageURLs": [], 
+            "bannerImageURL": "CACBanner.png", 
+            "thumbnailURL": "CACImage.png", 
+            "subtitle": "Code in every classrom", 
+            "description": "The idea of Coding Across the Curriculum is to introduce coding in every classroom by using the if statement. Every class is already using if statements, but now teachers can teach their content while coding their content ideas.", 
+            "publishedDate": "2017-12-19T12:00:00+00:00", 
+            "url": "../../CodingAcrossTheCurriculum.playgroundbook.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Bob Brown"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2017-12-19T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English"
+                }
+            ], 
+            "title": "Coding Across The Curriculum", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
+            "contentIdentifier": "org.jhhs.HerseyCAC"
         }
     ], 
     "publisherName": "Bob Brown", 
