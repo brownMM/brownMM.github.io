@@ -95,6 +95,37 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.HerseyCAC"
+        },{
+            "previewImageURLs": [], 
+            "bannerImageURL": "CACBanner.png", 
+            "thumbnailURL": "CACImage.png", 
+            "subtitle": "Choose Your Own Adventure", 
+            "description": "The idea of Choose Your Own Adventure is that English teachers can code an adventure", 
+            "publishedDate": "2018-03-12T12:00:00+00:00", 
+            "url": "../../ChooseYourOwnAdventure.playground.zip", 
+            "additionalInformation": [
+                {
+                    "name": "Publisher:", 
+                    "value": "Illinois Vision 20/20"
+                }, 
+                {
+                    "name": "Version:", 
+                    "value": "1.0"
+                }, 
+                {
+                    "type": "date", 
+                    "name": "Released:", 
+                    "value": "2018-03-12T12:00:00+00:00"
+                }, 
+                {
+                    "name": "Languages:", 
+                    "value": "English"
+                }
+            ], 
+            "title": "ChooseYourOwnAdventure", 
+            "contentVersion": "1.0", 
+            "lastUpdatedDate": "2018-03-12T12:00:00+00:00", 
+            "contentIdentifier": "org.jhhs.HerseyCAC"
         }
     ], 
     "publisherName": "Bob Brown", 
