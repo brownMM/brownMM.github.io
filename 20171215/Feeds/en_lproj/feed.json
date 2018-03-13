@@ -95,7 +95,8 @@
             "contentVersion": "1.0", 
             "lastUpdatedDate": "2017-12-19T12:00:00+00:00", 
             "contentIdentifier": "org.jhhs.HerseyCAC"
-        },{
+        },
+        {
             "previewImageURLs": [], 
             "bannerImageURL": "Vision2020Banner.png", 
             "thumbnailURL": "Vision2020Image.png", 
