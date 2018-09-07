@@ -10,7 +10,7 @@
             "overviewSubtitle": "Code algorithms in Swift",
             "detailSubtitle": "Learn to transition from Intro to AP CSA",
             "description": "APinCSP was created as algorithm practice in AP Computer Science Principles. The students will learn how quickly Swift can do Array, String and Integer processing, but must use loops to re-create the coding of these algorithms.",
-            "contentIdentifier": "io.github.brownmm.APCSP"
+            "contentIdentifier": "io.github.brownmm.APCSP",
             "contentVersion": "1.0",
             "url": "https://brownmm.github.io/20180907/APinCSP.playgroundbook.zip",
             "additionalInformation": [
