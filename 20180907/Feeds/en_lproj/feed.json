@@ -1,0 +1,33 @@
+{
+    "title": "JHHS Playgrounds",
+    "publisherName": "Bob Brown",
+    "feedIdentifier": "io.github.brownmm",
+    "contactURL": "mailto:bob.brown@d214.org",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "APinCSP",
+            "overviewSubtitle": "Code algorithms in Swift",
+            "detailSubtitle": "Learn to transition from Intro to AP CSA",
+            "description": "APinCSP was created as algorithm practice in AP Computer Science Principles. The students will learn how quickly Swift can do Array, String and Integer processing, but must use loops to re-create the coding of these algorithms.",
+            "contentIdentifier": "org.jhhs.APCSP"
+            "contentVersion": "1.0",
+            "url": "https://brownmm.github.io/20180907/APinCSP.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Made For",
+                    "value": "AP Computer Science Principles"
+                }
+            ],
+            "publishedDate": "2018-09-07T12:00:00+00:00",
+            "lastUpdatedDate": "2018-09-07T12:00:00+00:00",
+            "thumbnailURL": "APinCSPImage.png",
+            "bannerImageURL": "APinCSPBanner.png",
+            "previewImageURLs": [
+                "APCSP/APCSP_image1.png",
+                "APCSP/APCSP_image2.png",
+                "APCSP/APCSP_image3.png"
+            ]
+        }
+    ]
+}
