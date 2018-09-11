@@ -24,9 +24,9 @@
             "thumbnailURL": "APinCSPImage.png",
             "bannerImageURL": "APinCSPBanner.png",
             "previewImageURLs": [
-                "APCSP/APCSP_image1.png",
-                "APCSP/APCSP_image2.png",
-                "APCSP/APCSP_image3.png"
+                "../APCSP/APCSP_image1.png",
+                "../APCSP/APCSP_image2.png",
+                "../APCSP/APCSP_image3.png"
             ]
         }
     ]
