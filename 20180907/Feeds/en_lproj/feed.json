@@ -20,13 +20,36 @@
                 }
             ],
             "publishedDate": "2018-09-07T12:00:00+00:00",
-            "lastUpdatedDate": "2018-09-07T12:00:00+00:00",
+            "lastUpdatedDate": "2018-09-13T12:00:00+00:00",
             "thumbnailURL": "APinCSPImage.png",
             "bannerImageURL": "APinCSPBanner.png",
             "previewImageURLs": [
                 "APCSP_image1.png",
                 "APCSP_image2.png",
                 "APCSP_image3.png"
+            ]
+        },
+        {
+            "title": "CACAlgebra470",
+            "overviewSubtitle": "Code Functions in Mathematics",
+            "detailSubtitle": "Learn to code a function in function notation",
+            "description": "In Algebra 470, we are trying to teach the students coding.",
+            "contentIdentifier": "io.github.brownmm.CACAlgebra470",
+            "contentVersion": "1.0",
+            "url": "https://brownmm.github.io/20180907/CACAlgebra470.playgroundbook.zip",
+            "additionalInformation": [
+                {
+                    "name": "Made For",
+                    "value": "Algebra 470"
+                }
+            ],
+            "publishedDate": "2018-09-13T12:00:00+00:00",
+            "lastUpdatedDate": "2018-09-13T12:00:00+00:00",
+            "thumbnailURL": "CACAlgebra470.png",
+            "bannerImageURL": "CACAlgebra470Banner.png",
+            "previewImageURLs": [
+                "CACAlgebra470_image1.png",
+                "CACAlgebra470_image2.png"
             ]
         }
     ]
